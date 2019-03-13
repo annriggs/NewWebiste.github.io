@@ -1,0 +1,16 @@
+#interactivepicture {
+border; 1px solid black
+display: inline-block;
+}
+
+#interactive-picture p {
+text-align: center;
+}
+#interactive-picture:hover .display-hover {
+  display: black
+}
+
+.display-hover {
+display: none
+
+}
